@@ -639,6 +639,27 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 10月26日更,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 10月26日更,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 10月26日更,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
+江西都市,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls?zjiangxd
+江西经济生活,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls?zjiangxd
+江西影旅游,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls?zjiangxd
+江西公共农业,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls?zjiangxd
+江西少儿家庭,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls?zjiangxd
+江西新闻,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225576/2/index.m3u8?fmt=ts2hls?zjiangxd
+江西教育,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226197/2/index.m3u8?fmt=ts2hls?zjiangxd
+新余新闻综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd1.m3u8?zjiangxd
+新余公共频道,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd2.m3u8?zjiangxd
+新余教育频道,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd3.m3u8?zjiangxd
+赣州新闻综合,http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8?zjiangxd
+赣州公共频道,http://pl1.cloud.dayang.com.cn/live/10062_Naq1lu.m3u8?zjiangxd
+赣州教育频道,http://pl1.cloud.dayang.com.cn/live/10062_ojZz8U.m3u8?zjiangxd
+章贡综合频道,http://pl1.cloud.dayang.com.cn/live/10062_0FhO3l.m3u8?zjiangxd
+崇义综合频道,http://live.mudu.tv/watch/52dbfz.m3u8?zjiangxd
+瑞金综合频道,http://live.mudu.tv/watch/u2udf0.m3u8?zjiangxd
+鄱阳综合,http://pili-live-hls.poyang.jxxw.com.cn/pyxrmtzx/poyang.m3u8?zjiangxd
+玉山新闻综合,http://tv.yszc.com.cn/rmt/live.m3u8?zjiangxd
+崇仁综合频道,http://live.mudu.tv/watch/23ejte.m3u8?zjiangxd
+东乡区综合频道,http://live.mudu.tv/watch/hnkexb.m3u8?zjiangxd
+永新电视一套,http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8?zjiangxd
 
 🇨🇳［央秒］,#genre#
 CCTV1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
