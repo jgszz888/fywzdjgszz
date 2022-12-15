@@ -76,7 +76,12 @@
 {
 图片="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
 标题="CCTV1"
-链接="http://m.66zhibow.com/1/cctv1.html"
+链接="https://tv.cctv.com/live/cctv1/m/index.shtml?spm=C28340.PFfibrpzDugF.En59pIUdUZS1.1"
+}
+{
+图片="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
+标题="cctv1"
+链接="http://m.haoqu99.com/1/cctv1.html"
 }
 {
 图片="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png"
