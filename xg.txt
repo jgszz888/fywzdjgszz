@@ -74,6 +74,11 @@
 链接="http://iptv.everydaytv.top/?act=play&tid=%F0%9F%8F%81%E8%B3%BD%E4%BA%8B%E9%A0%BB%E9%81%93&id=%E6%9C%89%E7%B7%9A18%E5%8F%B0&p=0"
 }
 {
+图片="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
+标题="CCTV1"
+链接="http://m.66zhibow.com/1/cctv1.html"
+}
+{
 图片="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png"
 标题="CCTV16"
 链接="http://iptv.everydaytv.top/?act=play&tid=%F0%9F%8F%81%E8%B3%BD%E4%BA%8B%E9%A0%BB%E9%81%93&id=CCTV%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B&p=0"
