@@ -46,17 +46,17 @@
 {
 图片="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png"
 标题="卫视电影台"
-链接="http://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E8%A1%9B%E8%A6%96%E9%9B%BB%E5%BD%B1%E5%8F%B0&p=0"
+链接="https://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E8%A1%9B%E8%A6%96%E9%9B%BB%E5%BD%B1%E5%8F%B0&p=0"
 }
 {
 图片="http://epg.51zmt.top:8000/tb1/gt/%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png"
 标题="影迷电影台"
-链接="http://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0&p=0"
+链接="https://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0&p=0"
 }
 {
 图片="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png"
 标题="东森电影台"
-链接="http://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1&p=0"
+链接="https://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1&p=0"
 }
 {
 图片="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png"
@@ -111,7 +111,7 @@
 {
 图片="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png"
 标题="龙华电影台"
-链接="http://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E9%BE%8D%E8%8F%AF%E9%9B%BB%E5%BD%B1&p=0"
+链接="https://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E9%BE%8D%E8%8F%AF%E9%9B%BB%E5%BD%B1&p=0"
 }
 {
 图片="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png"
@@ -131,7 +131,7 @@
 {
 图片="https://www.img.xz95.top/img/wikipedia/commons/thumb/1/11/Nuvola_devices_tv.svg/300px-Nuvola_devices_tv.svg.png"
 标题="天映频道"
-链接="http://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A0%BB%E9%81%93&p=0"
+链接="https://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A0%BB%E9%81%93&p=0"
 }
 
 {
