@@ -20,7 +20,7 @@
 }
 {
 图片="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png"
-标题=">東森LIVE"
+标题="東森LIVE"
 链接="https://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E6%9D%B1%E6%A3%AELIVE&p=0"
 }
 {
