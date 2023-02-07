@@ -1,7 +1,7 @@
 {
 图片="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png"
 标题="东森新闻"
-链接="http://iptv.everydaytv.top/?act=play&tid=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93&id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E&p=0"
+链接="https://everydaytv.top/play-3-21-0.html"
 }
 {
 图片="https://www.img.xz95.top/img/wikipedia/zh/4/48/CTI_News_Logo.jpg"
